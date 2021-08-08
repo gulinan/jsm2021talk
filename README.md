@@ -4,5 +4,5 @@ Slides of my talk at JSM 2021 is available at https://gulinan.github.io/jsm2021t
 
 p.s. A more comphrensive version of this study is published as an undergraduate thesis
 of Sami Aldag and Dogukan Topcuoglu who are the first two-authors. If you would like to 
-cite this work, please let us know it.
+cite this work, please let us know it via sending an email to me at inan@itu.edu.tr.
 
