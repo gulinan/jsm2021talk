@@ -14,3 +14,5 @@ p.s. A more comphrensive version of this study is published as an undergraduate 
 of Sami Aldag and Dogukan Topcuoglu who are the first two-authors. If you would like to 
 cite this work, please let us know it via sending an email to me at inan@itu.edu.tr.
 
+
+Full version of the study is published at R Journal: https://journal.r-project.org/articles/RJ-2022-010/.
